@@ -1,5 +1,8 @@
 jQuery(document).ready(function ($) {
 
+    jQuery("#menuToggle").on("click", function () {
+        jQuery("#mobilemenu").slideToggle();
+    })
     var owl = $("#testimonial")
     owl.owlCarousel({
         autoplay: false,
@@ -11,14 +14,16 @@ jQuery(document).ready(function ($) {
         nav: true,
         responsive: {
             0: {
-                items: 1
+                items: 1,
+                dots: true,
+                nav: true
             },
-            768: {
-                items: 3,
-                loop: false,
+            550: {
+                items: 2,
+                loop: true,
             },
-            992: {
-                items: 4.5,
+            1299: {
+                items: 5.5,
                 loop: true
             }
         }
