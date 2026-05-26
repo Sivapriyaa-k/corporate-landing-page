@@ -762,7 +762,7 @@ footer ul li a {
   }
 
   .hero-boxes .box {
-    min-width: 85%;
+    min-width: 100%;
     flex: 0 0 auto;
     scroll-snap-align: start;
   }
