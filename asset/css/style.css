@@ -454,6 +454,7 @@ h2 {
 .our-partners img {
   height: 100%;
 }
+
 .icon-row1 {
   margin-top: 60px;
   margin-bottom: 71px;
@@ -491,6 +492,7 @@ h2 {
   line-height: 28px;
   font-weight: 400;
 }
+
 .testimonialLeftContent h2 {
   margin-bottom: 15px;
 }
@@ -506,6 +508,7 @@ h2 {
   text-align: center;
   margin-top: 80px;
 }
+
 .owl-dot {
   width: 18px;
   height: 17px;
@@ -530,6 +533,7 @@ h2 {
   width: 17px;
   border-radius: 30px;
 }
+
 .owl-nav {
   display: none;
 }
@@ -560,6 +564,7 @@ h2 {
   gap: 10px;
   line-height: normal;
 }
+
 .ourblog-box {
   position: relative;
 }
@@ -590,6 +595,7 @@ h2 {
   text-transform: uppercase;
   line-height: normal;
 }
+
 .ourblog-boxDesc {
   font-size: 20px;
   margin-top: 7px;
@@ -614,6 +620,7 @@ footer {
   line-height: 46px;
   font-weight: 600;
 }
+
 .footer-title h6 {
   margin-bottom: 13px;
 }
