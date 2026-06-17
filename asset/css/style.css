@@ -951,6 +951,8 @@ footer ul li a {
 
   .testimonial .owl-dots {
     margin-top: 20px;
+    display: flex;
+    justify-content: center;
   }
 
   .owl-carousel .owl-dot.active {
