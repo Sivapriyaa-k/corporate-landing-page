@@ -816,7 +816,7 @@ footer ul li a {
   }
 
   .side-space {
-    padding: 30px 20px;
+    padding: 30px 20px !important;
   }
 
   .about-us-content,
